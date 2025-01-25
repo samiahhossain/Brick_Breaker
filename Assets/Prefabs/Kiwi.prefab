@@ -11,7 +11,7 @@ PrefabInstance:
     - target: {fileID: 408466476931682785, guid: 64720f9c243d17f41b63c644c29086e6, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 9555d56bc4ba48444afa49055e1c8c61, type: 2}
+      objectReference: {fileID: 2100000, guid: b0e09ae82b49ff84288d2011647be697, type: 2}
     - target: {fileID: 2210095786644254772, guid: 64720f9c243d17f41b63c644c29086e6, type: 3}
       propertyPath: m_IsActive
       value: 1
@@ -19,22 +19,22 @@ PrefabInstance:
     - target: {fileID: 2688227748889904482, guid: 64720f9c243d17f41b63c644c29086e6, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 9555d56bc4ba48444afa49055e1c8c61, type: 2}
+      objectReference: {fileID: 2100000, guid: b0e09ae82b49ff84288d2011647be697, type: 2}
     - target: {fileID: 2688227748889904482, guid: 64720f9c243d17f41b63c644c29086e6, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
-      objectReference: {fileID: 2100000, guid: 1e2bf0874c58ef24abae15a3dd6c04ec, type: 2}
+      objectReference: {fileID: 2100000, guid: d367766d957ca64439e0ad580ea87a81, type: 2}
     - target: {fileID: 4226947502214162432, guid: 64720f9c243d17f41b63c644c29086e6, type: 3}
       propertyPath: m_LocalScale.x
-      value: 1.5
+      value: 0.75
       objectReference: {fileID: 0}
     - target: {fileID: 4226947502214162432, guid: 64720f9c243d17f41b63c644c29086e6, type: 3}
       propertyPath: m_LocalScale.y
-      value: 1.5
+      value: 0.75
       objectReference: {fileID: 0}
     - target: {fileID: 4226947502214162432, guid: 64720f9c243d17f41b63c644c29086e6, type: 3}
       propertyPath: m_LocalScale.z
-      value: 1.5
+      value: 0.75
       objectReference: {fileID: 0}
     - target: {fileID: 4226947502214162432, guid: 64720f9c243d17f41b63c644c29086e6, type: 3}
       propertyPath: m_LocalPosition.x
@@ -91,14 +91,14 @@ PrefabInstance:
     - target: {fileID: 5917825376720269400, guid: 64720f9c243d17f41b63c644c29086e6, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 9555d56bc4ba48444afa49055e1c8c61, type: 2}
+      objectReference: {fileID: 2100000, guid: b0e09ae82b49ff84288d2011647be697, type: 2}
     - target: {fileID: 5917825376720269400, guid: 64720f9c243d17f41b63c644c29086e6, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
-      objectReference: {fileID: 2100000, guid: 1e2bf0874c58ef24abae15a3dd6c04ec, type: 2}
+      objectReference: {fileID: 2100000, guid: d367766d957ca64439e0ad580ea87a81, type: 2}
     - target: {fileID: 6296752244905116765, guid: 64720f9c243d17f41b63c644c29086e6, type: 3}
       propertyPath: m_Name
-      value: Watermelon
+      value: Kiwi
       objectReference: {fileID: 0}
     - target: {fileID: 6493296364505389413, guid: 64720f9c243d17f41b63c644c29086e6, type: 3}
       propertyPath: m_IsActive
